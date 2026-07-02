@@ -1,0 +1,14 @@
+1. Prompt 1: Hãy đóng vai trò IT Consultant và System Analyst, chọn một chủ đề hệ thống phù hợp với bài kiểm tra thực hành và đề xuất bối cảnh kinh doanh rõ ràng cho hệ thống quản lý chuỗi phòng hát karaoke.
+2. Prompt 2: Hãy tạo một tài liệu SRS cho hệ thống Quản lý chuỗi phòng hát karaoke có ít nhất 3 phân hệ cốt lõi và ít nhất 3 actor khác nhau.
+3. Prompt 3: Hãy chia hệ thống thành các module chính: Quản lý phòng và đặt chỗ, Quản lý dịch vụ và POS, Quản lý khách hàng và khuyến mãi, Báo cáo và phân tích doanh thu.
+4. Prompt 4: Hãy xác định các actor chính gồm Khách hàng, Nhân viên lễ tân, Quản lý chuỗi và hệ thống thanh toán, rồi viết user stories cho từng actor.
+5. Prompt 5: Hãy liệt kê các yêu cầu chức năng chính cho từng module, ưu tiên theo mức quan trọng và ghi rõ quy trình nghiệp vụ từ đặt phòng đến thanh toán.
+6. Prompt 6: Hãy bổ sung các yêu cầu phi chức năng về hiệu năng, bảo mật, độ sẵn sàng, khả năng mở rộng và tuân thủ dữ liệu cho hệ thống.
+7. Prompt 7: Hãy xây dựng sơ đồ Use Case và thể hiện rõ các hành động của từng actor trong quy trình đặt phòng, check-in, gọi dịch vụ, thanh toán và báo cáo.
+8. Prompt 8: Hãy thiết kế sơ đồ kiến trúc hệ thống gồm frontend, backend, database, message queue, storage và dịch vụ thanh toán.
+9. Prompt 9: Hãy thiết kế ERD cho hệ thống theo đúng yêu cầu đề bài, với các thực thể chính: Users, Customers, Rooms, RoomTypes, Bookings, Services, Orders, Payments, Promotions và Invoices.
+10. Prompt 10: Hãy định nghĩa chi tiết các bảng dữ liệu, khóa chính, khóa ngoại, kiểu dữ liệu và các mối quan hệ 1-N, N-N và 1-1 phù hợp với nghiệp vụ karaoke.
+11. Prompt 11: Hãy thêm các trường trạng thái như booking_status, payment_status, order_status, room_status và các trường thời gian tạo/cập nhật cho từng bảng.
+12. Prompt 12: Hãy bổ sung quy trình nghiệp vụ quan trọng như đặt phòng, check-in, gọi đồ uống, thanh toán, hủy đặt chỗ, tạo hóa đơn và báo cáo doanh thu.
+13. Prompt 13: Hãy chỉnh sửa lại tài liệu để có cấu trúc SRS chuẩn: Giới thiệu, phạm vi, actors, user stories, requirements, kiến trúc hệ thống, ERD, rủi ro và giả định.
+14. Prompt 14: Hãy làm cho tài liệu ngắn gọn, chuyên nghiệp, có bố cục rõ ràng và render các sơ đồ thành hình ảnh, không để nguyên mã Mermaid trong file nộp.
